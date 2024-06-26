@@ -1,8 +1,9 @@
 # Bankist App
+
+<img src="bank-app.png" alt="bank-transactions-image"/>
 <p>A real world of how transaction operates in a Bank</p>
 
-<video src="bank-app.mp4" autoplay muted></video>
-
+Check [Project link](https://emerald-bankist-app.vercel.app/)
 
 
 
